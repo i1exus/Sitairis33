@@ -8,6 +8,7 @@ import Interfaccces.*;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Я люблю нашего старосту");
         НародныйЦелитель a = new НародныйЦелитель();
         Шаман b = new Шаман("абдурахман");
 
